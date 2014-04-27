@@ -1,4 +1,4 @@
-Just a little Rob Ford-ified version of 2048. 
+Just my little Rob Ford-ified version of Gabrielle Cirulli's addictive 2048 game. 
 
 [Play the original here.](http://gabrielecirulli.github.io/2048/)
 
